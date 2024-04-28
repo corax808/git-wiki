@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update Colab notebook for YOLOv8.1 (#8660)
