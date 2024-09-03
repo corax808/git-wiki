@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
