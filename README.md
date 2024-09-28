@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Update Colab notebook for YOLOv8.1 (#8660)
