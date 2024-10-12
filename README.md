@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
